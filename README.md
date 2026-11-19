@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img alt="version: 0.8.2" src="https://img.shields.io/badge/version-0.8.2-3f7d6b?style=flat-square">
+  <img alt="version: 0.8.5" src="https://img.shields.io/badge/version-0.8.5-3f7d6b?style=flat-square">
   <img alt="stage: beta" src="https://img.shields.io/badge/stage-beta-3f7d6b?style=flat-square">
   <img alt="platform: Android 7.0+" src="https://img.shields.io/badge/platform-Android%207.0%2B-2a5a4d?style=flat-square&logo=android&logoColor=white">
   <img alt="UI: Russian and English" src="https://img.shields.io/badge/UI-RU%20%2B%20EN-31566e?style=flat-square">
