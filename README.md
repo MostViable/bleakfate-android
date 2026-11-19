@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-  <img src=".github/readme/screens/home-off.png" width="24%" alt="Home with the VPN off: a dark black hole and the Connect button">
-  <img src=".github/readme/screens/home-on.png" width="24%" alt="Home with the VPN on: the black hole glows, connected through Smart Auto">
-  <img src=".github/readme/screens/servers.png" width="24%" alt="Servers: Smart Auto and the list of countries">
-  <img src=".github/readme/screens/settings.png" width="24%" alt="Settings: split tunneling, appearance, connection">
-  <br><sub>Real screenshots of version 0.8.2 (Russian interface): Home with the VPN off and on, Servers, Settings.</sub>
+  <img src=".github/readme/screens/en/home-off.png" width="24%" alt="Home with the VPN off: a dark black hole and the Connect button">
+  <img src=".github/readme/screens/en/home-on.png" width="24%" alt="Home with the VPN on: the black hole glows, connected through Smart Auto">
+  <img src=".github/readme/screens/en/servers.png" width="24%" alt="Servers: Smart Auto and the list of countries">
+  <img src=".github/readme/screens/en/settings.png" width="24%" alt="Settings: split tunneling, appearance, connection">
+  <br><sub>Real screenshots of version 0.8.2: Home with the VPN off and on, Servers, Settings.</sub>
 </p>
 
 > [!NOTE]

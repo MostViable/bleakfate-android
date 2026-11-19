@@ -30,10 +30,10 @@
 </p>
 
 <p align="center">
-  <img src=".github/readme/screens/home-off.png" width="24%" alt="Главная с выключенным VPN: тёмная чёрная дыра и кнопка «Подключить»">
-  <img src=".github/readme/screens/home-on.png" width="24%" alt="Главная с включённым VPN: дыра светится, подключено через «Умный Авто»">
-  <img src=".github/readme/screens/servers.png" width="24%" alt="Серверы: «Умный Авто» и список стран">
-  <img src=".github/readme/screens/settings.png" width="24%" alt="Настройки: прокси по приложениям, оформление, соединение">
+  <img src=".github/readme/screens/ru/home-off.png" width="24%" alt="Главная с выключенным VPN: тёмная чёрная дыра и кнопка «Подключить»">
+  <img src=".github/readme/screens/ru/home-on.png" width="24%" alt="Главная с включённым VPN: дыра светится, подключено через «Умный Авто»">
+  <img src=".github/readme/screens/ru/servers.png" width="24%" alt="Серверы: «Умный Авто» и список стран">
+  <img src=".github/readme/screens/ru/settings.png" width="24%" alt="Настройки: прокси по приложениям, оформление, соединение">
   <br><sub>Настоящие скриншоты версии 0.8.2: «Главная» с выключенным и включённым VPN, «Серверы», «Настройки».</sub>
 </p>
 
