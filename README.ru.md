@@ -89,5 +89,3 @@ b6fa737b90b114ed4144ee2f0c7d00559fcbc81fbe890f59636d3142e93c51f8
 © MostViable. Все права защищены. Приложение можно скачивать и использовать с подпиской BLEAKFATE; исходный код не публикуется.
 
 В приложении используются открытые компоненты под их собственными лицензиями: [libXray](https://github.com/XTLS/libXray) (MIT) и [Xray-core](https://github.com/XTLS/Xray-core) (MPL-2.0, без изменений; исходники использованной версии: [v26.10.31](https://github.com/XTLS/Xray-core/tree/v26.10.31)), [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) с модулями (MIT, lwIP — BSD-3-Clause), Kotlin, AndroidX и Jetpack Compose, OkHttp, ZXing (Apache-2.0). Полные тексты — в [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) и в приложении (О BLEAKFATE → Лицензии компонентов).
-
-Оформление страницы следует стилю приложений ArtCraft; материалы ArtCraft не используются.

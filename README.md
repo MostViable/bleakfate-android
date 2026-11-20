@@ -89,5 +89,3 @@ No ads and no analytics. Error reports go to our server only if you allow them (
 © MostViable. All rights reserved. You may download and use the app with a BLEAKFATE subscription; the source code is not published.
 
 The app uses open-source components under their own licenses: [libXray](https://github.com/XTLS/libXray) (MIT) and [Xray-core](https://github.com/XTLS/Xray-core) (MPL-2.0, unmodified; source of the version used: [v26.10.31](https://github.com/XTLS/Xray-core/tree/v26.10.31)), [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) with its modules (MIT, lwIP under BSD-3-Clause), Kotlin, AndroidX and Jetpack Compose, OkHttp, ZXing (Apache-2.0). Full texts: [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) and in the app (About BLEAKFATE → Open source licenses).
-
-The layout of this page follows the style of the ArtCraft apps; no ArtCraft assets are used.
