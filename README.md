@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/MostViable/bleakfate-android/releases/latest/download/BLEAKFATE.apk"><img alt="free trial: 3 days" src="https://img.shields.io/badge/free%20trial-3%20days-2fa36b?style=flat-square"></a>
   <img alt="version: 0.8.5" src="https://img.shields.io/badge/version-0.8.5-3f7d6b?style=flat-square">
   <img alt="stage: beta" src="https://img.shields.io/badge/stage-beta-3f7d6b?style=flat-square">
   <img alt="platform: Android 7.0+" src="https://img.shields.io/badge/platform-Android%207.0%2B-2a5a4d?style=flat-square&logo=android&logoColor=white">
@@ -36,6 +37,9 @@
   <img src=".github/readme/screens/en/settings.png" width="24%" alt="Settings: split tunneling, appearance, connection">
   <br><sub>Real screenshots of version 0.8.2: Home with the VPN off and on, Servers, Settings.</sub>
 </p>
+
+> [!TIP]
+> **Try BLEAKFATE free for 3 days.** Install the app, sign in through Telegram or create an account with your email, and tap **Profile → Try for free**. During the three free days you can connect up to 5 devices, and you don't need a card. One trial per account.
 
 > [!NOTE]
 > The app is in beta. It needs a BLEAKFATE subscription: sign in with the account you use in the bot or on the website, or paste your subscription link.

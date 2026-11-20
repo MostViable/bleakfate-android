@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/MostViable/bleakfate-android/releases/latest/download/BLEAKFATE.apk"><img alt="пробный период: 3 дня бесплатно" src="https://img.shields.io/badge/free%20trial-3%20days-2fa36b?style=flat-square"></a>
   <img alt="версия: 0.8.5" src="https://img.shields.io/badge/version-0.8.5-3f7d6b?style=flat-square">
   <img alt="стадия: бета" src="https://img.shields.io/badge/stage-beta-3f7d6b?style=flat-square">
   <img alt="платформа: Android 7.0+" src="https://img.shields.io/badge/platform-Android%207.0%2B-2a5a4d?style=flat-square&logo=android&logoColor=white">
@@ -36,6 +37,9 @@
   <img src=".github/readme/screens/ru/settings.png" width="24%" alt="Настройки: прокси по приложениям, оформление, соединение">
   <br><sub>Настоящие скриншоты версии 0.8.2: «Главная» с выключенным и включённым VPN, «Серверы», «Настройки».</sub>
 </p>
+
+> [!TIP]
+> **BLEAKFATE бесплатно на 3 дня.** Установите приложение, войдите через Telegram или создайте аккаунт по почте и нажмите **Профиль → Попробовать бесплатно**. На пробные три дня можно подключить до пяти устройств, карта не нужна. Пробный период — один на аккаунт.
 
 > [!NOTE]
 > Приложение в бета-версии. Нужна подписка BLEAKFATE: войдите тем же аккаунтом, что в боте или на сайте, или вставьте ссылку на подписку.
