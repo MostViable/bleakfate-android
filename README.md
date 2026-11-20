@@ -40,6 +40,8 @@
 
 > [!TIP]
 > **Try BLEAKFATE free for 3 days.** Install the app, sign in through Telegram or create an account with your email, and tap **Profile → Try for free**. During the three free days you can connect up to 5 devices, and you don't need a card. One trial per account.
+>
+> Got an invite link from a friend? Take the trial in the bot instead: open the link in Telegram, and [@BleakFateBot](https://t.me/BleakFateBot) gives new users 6 days. Then sign in to the app through Telegram, and the trial is already there.
 
 > [!NOTE]
 > The app is in beta. It needs a BLEAKFATE subscription: sign in with the account you use in the bot or on the website, or paste your subscription link.
@@ -73,7 +75,9 @@ With the Android SDK: `apksigner verify --print-certs BLEAKFATE.apk` must show t
 
 ## Updates
 
-Install a new release over the old one: your settings, servers and sign-in stay. Updating from inside the app is coming later; for now take the new APK from [Releases](https://github.com/MostViable/bleakfate-android/releases).
+Updates come from this repository right inside the app: open **Settings → About BLEAKFATE → Check for updates** and tap **Download**. The new version downloads with a progress bar, and Android installs it over the old one; the first time, Android may ask you to allow installs from BLEAKFATE. Your settings, servers and sign-in stay.
+
+You can also download the new `BLEAKFATE.apk` from [Releases](https://github.com/MostViable/bleakfate-android/releases) and install it over the old one yourself.
 
 ## What it can do
 
@@ -86,7 +90,7 @@ Install a new release over the old one: your settings, servers and sign-in stay.
 
 ## Privacy
 
-No ads and no analytics. Error reports go to our server only if you allow them (Settings → Connection log); they hold event codes, the name of a crash, the app version and the phone model, never addresses, subscription links or keys. The speed test talks to `speed.cloudflare.com`. The full policy is on [bleakfate.com](https://bleakfate.com/legal/privacy/).
+No ads and no analytics. Error reports go to our server only if you allow them (Settings → Advanced → Connection event log); they hold event codes, the name of a crash, the app version and the phone model, never addresses, subscription links or keys. The speed test talks to `speed.cloudflare.com`. The privacy policy of the BLEAKFATE service is on [bleakfate.com](https://bleakfate.com/legal/privacy/). It does not cover the app yet: what the app sends is listed in this section.
 
 ## License and credits
 
