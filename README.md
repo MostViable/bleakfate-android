@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/MostViable/bleakfate-android/releases/latest/download/BLEAKFATE.apk"><img alt="free trial: 3 days" src="https://img.shields.io/badge/free%20trial-3%20days-2fa36b?style=flat-square"></a>
-  <img alt="version: 0.8.5" src="https://img.shields.io/badge/version-0.8.5-3f7d6b?style=flat-square">
+  <img alt="version: 0.9.0" src="https://img.shields.io/badge/version-0.9.0-3f7d6b?style=flat-square">
   <img alt="stage: beta" src="https://img.shields.io/badge/stage-beta-3f7d6b?style=flat-square">
   <img alt="platform: Android 7.0+" src="https://img.shields.io/badge/platform-Android%207.0%2B-2a5a4d?style=flat-square&logo=android&logoColor=white">
   <img alt="UI: Russian and English" src="https://img.shields.io/badge/UI-RU%20%2B%20EN-31566e?style=flat-square">
@@ -35,13 +35,13 @@
   <img src=".github/readme/screens/en/home-on.png" width="24%" alt="Home with the VPN on: the black hole glows, connected through Smart Auto">
   <img src=".github/readme/screens/en/servers.png" width="24%" alt="Servers: Smart Auto and the list of countries">
   <img src=".github/readme/screens/en/settings.png" width="24%" alt="Settings: split tunneling, appearance, connection">
-  <br><sub>Real screenshots of version 0.8.2: Home with the VPN off and on, Servers, Settings.</sub>
+  <br><sub>Real screenshots of version 0.9.0: Home with the VPN off and on, Servers, Settings.</sub>
 </p>
 
 > [!TIP]
 > **Try BLEAKFATE free for 3 days.** Install the app, sign in through Telegram or create an account with your email, and tap **Profile → Try for free**. During the three free days you can connect up to 5 devices, and you don't need a card. One trial per account.
 >
-> Got an invite link from a friend? Take the trial in the bot instead: open the link in Telegram, and [@BleakFateBot](https://t.me/BleakFateBot) gives new users 6 days. Then sign in to the app through Telegram, and the trial is already there.
+> Got an invite link from a friend? Open it in Telegram first: [@BleakFateBot](https://t.me/BleakFateBot) remembers who invited you, and new users get a 6-day trial instead of 3, in the bot or in the app when you sign in through Telegram.
 
 > [!NOTE]
 > The app is in beta. It needs a BLEAKFATE subscription: sign in with the account you use in the bot or on the website, or paste your subscription link.
@@ -52,6 +52,7 @@
   <a href="#updates">Updates</a> ·
   <a href="#what-it-can-do">What it can do</a> ·
   <a href="#privacy">Privacy</a> ·
+  <a href="#security">Security</a> ·
   <a href="#license-and-credits">License and credits</a>
 </p>
 
@@ -75,7 +76,9 @@ With the Android SDK: `apksigner verify --print-certs BLEAKFATE.apk` must show t
 
 ## Updates
 
-Updates come from this repository right inside the app: open **Settings → About BLEAKFATE → Check for updates** and tap **Download**. The new version downloads with a progress bar, and Android installs it over the old one; the first time, Android may ask you to allow installs from BLEAKFATE. Your settings, servers and sign-in stay.
+Since 0.9.0 a new release shows up on **Home** by itself: tap **Download**, then **Install**. The new version downloads from this repository with a progress bar, and Android installs it over the old one; the first time, Android may ask you to allow installs from BLEAKFATE. Your settings, servers and sign-in stay.
+
+You can also check yourself: **Settings → About BLEAKFATE → Check for updates**. On 0.8.5 this is how you get 0.9.0.
 
 You can also download the new `BLEAKFATE.apk` from [Releases](https://github.com/MostViable/bleakfate-android/releases) and install it over the old one yourself.
 
@@ -84,13 +87,19 @@ You can also download the new `BLEAKFATE.apk` from [Releases](https://github.com
 - **One button** to connect, and **Smart Auto**, which picks a working server for the network you are on.
 - **Servers by country**, favourites, ping check and a speed test.
 - **Split tunneling**: choose which apps go through the VPN.
-- **Account in the app**: sign in through Telegram or email, see your subscription and devices, renew and pay (SBP, card, crypto).
+- **Everything the Telegram bot does, in the app**: sign in through Telegram or email, your subscriptions with the days left, renew and pay (SBP, card, crypto) with your balance and promo codes, invite friends, a payment history.
+- **Your devices**: unlink one or all, block a stranger's device, reissue the link; connect another device with a QR code.
+- **Help** with the service status, support and documents.
 - **Trusted Wi‑Fi networks** where the VPN switches off, modes such as Home or Work, a leak check.
 - **Light and dark themes**, Russian and English.
 
 ## Privacy
 
 No ads and no analytics. Error reports go to our server only if you allow them (Settings → Advanced → Connection event log); they hold event codes, the name of a crash, the app version and the phone model, never addresses, subscription links or keys. The speed test talks to `speed.cloudflare.com`. The privacy policy of the BLEAKFATE service is on [bleakfate.com](https://bleakfate.com/legal/privacy/). It does not cover the app yet: what the app sends is listed in this section.
+
+## Security
+
+How to report a vulnerability, what is in scope and how to check that a release is ours: [SECURITY.md](SECURITY.md).
 
 ## License and credits
 
